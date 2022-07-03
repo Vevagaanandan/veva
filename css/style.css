@@ -433,6 +433,28 @@ p.about-paragraph{
     background-color: #fff;
     color: #4070F4;
 }
+
+.emailMe{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.emailMe i{
+    font-size: 20px;
+}
+
+a.emailMeLink{
+    color: #000;
+    font-size: 18px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+a.emailMeLink:hover{
+    color: #4070F4;
+}
+
 /* Footer START */
 footer{
     padding: 40px 0px;
