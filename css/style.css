@@ -257,6 +257,10 @@ p.about-paragraph{
     flex-wrap: wrap;
 }
 
+.projects-main:nth-child(2){
+    justify-content: space-around;
+}
+
 .allProjects{
     padding-bottom: 80px;
 }
