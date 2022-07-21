@@ -326,6 +326,8 @@ p.about-paragraph{
 
 .project-link{
     padding-top: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .project-link i{
@@ -334,7 +336,8 @@ p.about-paragraph{
 }
 
 .project-link a{
-    padding-right: 15px;
+    display: block;
+    width: 40px;
 }
 
 .project-link a:hover i{
